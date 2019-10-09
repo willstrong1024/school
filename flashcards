@@ -50,3 +50,21 @@ A matrix can be {{diagonalised}} by finding ${{\mathbf{M} = \mathbf{PDP}^{-1} }}
 {{The eigenvectors}} determine {{the direction}} of the {{invariant lines}} through {{the origin}}.
 An eigenvector has a corresponding eigenvalue of {{one}} $\iff$ it represents {{a line of invariant points}}.
 A transformation has {{a repeated eigenvalue}} $\iff$ there is {{an invariant plane}}.
+
+$$a \times b = |a| |b| \sin \theta \hat{\mathbf{n}}$$
+The vector product is sometimes called the cross product.
+The vector product is anticommutative and distributive.
+The `right hand rule' can be used to determine the direction of the cross product.
+$$\mathbf{i} \times \mathbf{j} = \mathbf{k}$$
+$$\mathbf{j} \times \mathbf{k} = \mathbf{i}$$
+$$\mathbf{k} \times \mathbf{i} = \mathbf{j}$$
+$\mathbf{a} \times \mathbf{b} = 0 \iff \mathbf{a}$ and $\mathbf{b}$ are parallel.
+Area of triangle $= \frac{1}{2} |\mathbf{a} \times \mathbf{b}|$
+The vector product equation of a line is $(\mathbf{r} - \mathbf{a}) \times \mathbf{b} = 0$ or $\mathbf{r} \times \mathbf{b} = \mathbf{a} \times \mathbf{b}$.
+The vector equation of a plane is $\mathbf{r} = \mathbf{a} + \lambda \mathbf{b} + \mu \mathbf{c}$.
+The scalar product equation of a plane is $\mathbf{r} \cdot \mathbf{n} = \mathbf{a} \cdot \mathbf{n}$.
+A vector perpendicular to a plane is called a normal to the plane.
+The Cartesian equation of a plane is $ax + by + cz + d = 0$.
+The acute angle between a line and a plane is given by $\sin \theta = \left | \frac{\mathbf{b} \cdot \mathbf{n} }{|\mathbf{b}| |\mathbf{n}|} \right |$.
+The acute angle between two planes is given by $\cos \theta = \left | \frac{\mathbf{n}_1 \cdot \mathbf{n}_2}{|\mathbf{n}_1| |\mathbf{n}_2|} \right |$.
+$$\mathbf{a} \times \mathbf{b} = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{vmatrix}$$
