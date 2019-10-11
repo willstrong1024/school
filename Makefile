@@ -6,6 +6,6 @@ compile:
 	pdflatex output.tex
 
 view:
-	mupdf output.pdf
+	mupdf output.pdf &
 
 .PHONY: all compile view
