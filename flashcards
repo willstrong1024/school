@@ -6,13 +6,13 @@ It is only possible to find $\mathbf{A}^2$ if $\mathbf{A}$ is {{square}}.
 {{A square matrix}} has {{the same number of rows and columns}}.
 {{Swap the rows and columns}} to {{transpose}} a matrix.
 $${{(\mathbf{AB})^T}} \equiv {{\mathbf{B}^T \mathbf{A}^T}}$$
-Matrix {{addition}} is {{associative}} and {{commutative}}.
-Matrix {{multiplication}} is {{associative}} and {{distributive}}.
-Matrix {{multiplication}} is not {{commutative}}.
+Matrix addition is {{associative}} and {{commutative}}.
+Matrix multiplication is {{associative}} and {{distributive}}.
+Matrix multiplication is not {{commutative}}.
 {{An identity matrix}} has {{ones in the leading diagonal}} and {{zeros elsewhere}}.
 $${{\mathbf{AI} }} = {{\mathbf{IA} }} = {{\mathbf{A} }}$$
 A point which is {{unaffected}} by a transformation is {{invariant}}.
-${{(0, 0)}}$ is {{an invariant point}} under any linear transformation.
+${{(0, 0)}}$ is {{invariant}} under any linear transformation.
 If every point on a line is mapped to {{itself}} it's {{a line of invariant points}}.
 If every point on a line is mapped to {{another point on the line}} it's {{an invariant line}}.
 {{Lines of invariant points}} are a subset of {{invariant lines}}.
@@ -28,7 +28,7 @@ ${{\det(\mathbf{T}) < 0}} \iff$ the transformation involves {{a reflection}}.
 ${{\det(\mathbf{T}) > 0}} \iff$ {{the orientation of the shape}} is {{preserved}}.
 volume of image = {{volume of original}} $\times$ ${{|\det(\mathbf{T})|}}$
 A system of equations are {{inconsistent}} if there are {{no solutions}}.
-Three planes form {{a prism}} or {{two of the planes are parallel}} $\iff$ the equations are {{inconsistent}}.
+If three planes form {{a prism}} or {{two of the planes are parallel}}, the equations are {{inconsistent}}.
 When planes meet {{along a line}}, it's {{a sheaf}}.
 If there are {{infinitely many solutions}}, the planes form {{a sheaf}}.
 If three planes {{intersect at a single point}}, there is {{one solution}}.
@@ -41,15 +41,14 @@ Adding or subtracting {{any multiple of}} a row or column to another row or colu
 {{Swapping two rows or columns}} changes {{the sign}} of {{the determinant}}.
 Multiplying or dividing a {{row or column}} by a scalar multiplies or divides {{the determinant}} by that scalar.
 A vector whose {{direction}} is {{unchanged}} by a transformation is {{an eigenvector}}.
-Eigenvectors are {{non-zero}}.
 ${{\det(\mathbf{A} - \lambda \mathbf{I}) = 0}}$ is the {{characteristic equation}}.
 {{The Cayley-Hamilton theorem}} states that every matrix satisfies its own {{characteristic equation}}.
 A matrix is {{diagonal}} if all the elements {{except those in the leading diagonal}} are {{zeros}}.
 ${{\mathbf{A} = \mathbf{A}^T}} \iff \mathbf{A}$ is {{symmetric}}.
 A matrix can be {{diagonalised}} by finding ${{\mathbf{M} = \mathbf{PDP}^{-1} }}$.
 {{The eigenvectors}} determine {{the direction}} of the {{invariant lines}} through {{the origin}}.
-An eigenvector has a corresponding eigenvalue of {{one}} $\iff$ it represents {{a line of invariant points}}.
-A transformation has {{a repeated eigenvalue}} $\iff$ there is {{an invariant plane}}.
+If an eigenvector has a corresponding eigenvalue of {{one}}, it represents {{a line of invariant points}}.
+If a transformation has {{a repeated eigenvalue}}, there is {{an invariant plane}}.
 $${{a \times b}} = {{|a| |b| \sin \theta \hat{\mathbf{n} } }}$$
 The {{vector product}} is sometimes called the {{cross product}}.
 The vector product is {{anticommutative}} and {{distributive}}.
