@@ -60,3 +60,5 @@ The {{vector}} equation of {{a plane}} is ${{\mathbf{r} = \mathbf{a} + \lambda \
 The {{scalar product}} equation of {{a plane}} is ${{\mathbf{r} \cdot \mathbf{n} = \mathbf{a} \cdot \mathbf{n} }}$.
 A vector {{perpendicular}} to a plane is {{normal}} to the plane.
 The {{Cartesian}} equation of {{a plane}} is ${{ax + by + cz = d}}$.
+The acute angle between a line and a plane is given by $\sin \theta = \left | \frac{\mathbf{b} \cdot \mathbf{n} }{|\mathbf{b}| |\mathbf{n}|} \right |$
+The acute angle between two planes is given by $\cos \theta = \left | \frac{\mathbf{n}_1 \cdot \mathbf{n}_2 }{|\mathbf{n}_1| |\mathbf{n}_2|} \right |$
