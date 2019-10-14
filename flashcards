@@ -60,15 +60,15 @@ The {{vector}} equation of {{a plane}} is ${{\mathbf{r} = \mathbf{a} + \lambda \
 The {{scalar product}} equation of {{a plane}} is ${{\mathbf{r} \cdot \mathbf{n} = \mathbf{a} \cdot \mathbf{n} }}$.
 A vector {{perpendicular}} to a plane is {{normal}} to the plane.
 The {{Cartesian}} equation of {{a plane}} is ${{ax + by + cz = d}}$.
-The acute angle between a line and a plane is given by $\sin \theta = \left | \frac{\mathbf{b} \cdot \mathbf{n} }{|\mathbf{b}| |\mathbf{n}|} \right |$
-The acute angle between two planes is given by $\cos \theta = \left | \frac{\mathbf{n}_1 \cdot \mathbf{n}_2 }{|\mathbf{n}_1| |\mathbf{n}_2|} \right |$
-One can use definite integration to find the area under a curve.
-$$\lim_{n \to \infty} \sum_{i = 1}^n y_i \delta x = \int_a^b y dx$$
-Integration is the reverse of differentiation.
-A function to be integrated is called an integrand.
-$$\int x^n dx = \frac{1}{n + 1} x^{n + 1} + c$$
-$$\int e^x dx = e^x + c$$
-$$\int \frac{1}{x} dx = \ln |x| + c$$
-$$\int \cos x dx = \sin x + c$$
-$$\int \sin x dx = -\cos x + c$$
-$$\int \sec^2 x dx = \tan x + c$$
+The acute angle between {{a line and a plane}} is given by ${{\sin \theta = \left | \frac{\mathbf{b} \cdot \mathbf{n} }{|\mathbf{b}| |\mathbf{n}|} \right |}}$
+The acute angle between {{two planes}} is given by ${{\cos \theta = \left | \frac{\mathbf{n}_1 \cdot \mathbf{n}_2 }{|\mathbf{n}_1| |\mathbf{n}_2|} \right |}}$
+One can use {{definite integration}} to find {{the area under a curve}}.
+$$\lim_{n \to \infty} \sum_{i = 1}^n y_i \delta x = {{\int_a^b y dx}}$$
+{{Integration}} is the reverse of {{differentiation}}.
+A function to be integrated is called {{an integrand}}.
+$$\int {{x^n}} dx = {{\frac{1}{n + 1} x^{n + 1} + c}}$$
+$$\int {{e^x}} dx = {{e^x + c}}$$
+$$\int {{\frac{1}{x} }} dx = {{\ln |x| + c}}$$
+$$\int {{\cos x}} dx = {{\sin x + c}}$$
+$$\int {{\sin x}} dx = {{-\cos x + c}}$$
+$$\int {{\sec^2 x}} dx = {{\tan x + c}}$$
