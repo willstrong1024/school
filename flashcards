@@ -78,3 +78,6 @@ Statements {{that can be assumed to be true}} are {{axioms}}.
 One relies on {{axioms}} in {{direct proof}}.
 One must prove {{every possible case}} in {{proof by exhaustion}}.
 One can disprove a statement with {{a counter example}}.
+A line will intersect any plane unless they are parallel.
+Skew lines lie on parallel planes.
+The distance from a plane to the origin is $$\left | \frac{p}{|\bm{n}|} \right |$$
