@@ -81,3 +81,11 @@ One can disprove a statement with {{a counter example}}.
 A line will {{intersect}} any plane unless they are {{parallel}}.
 {{Skew}} lines lie on {{parallel planes}}.
 The {{distance from a plane to the origin}} is $${{\left | \frac{p}{|\bm{n}|} \right |}}$$
+The derivative of a function gives the gradient.
+$$\frac{dy}{dx} > 0 \iff y \text{ is increasing}$$
+$$\frac{dy}{dx} < 0 \iff y \text{ is decreasing}$$
+$$\frac{dy}{dx} = 0 \iff y \text{ is stationary}$$
+$$\frac{d^2y}{dx^2} < 0 \iff y \text{ is concave}$$
+$$\frac{d^2y}{dx^2} > 0 \iff y \text{ is convex}$$
+A point where a curve changes concavity is a point of inflection.
+$$\text{A point of inflection} \implies \frac{d^2y}{dx^2} = 0$$
