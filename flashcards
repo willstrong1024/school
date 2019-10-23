@@ -1,9 +1,9 @@
 A matrix with $n$ rows and $m$ columns has {{order}} $n \times m$.
-If two matrices have {{the same order}} they can be {{added or subtracted}}.
+If two matrices have the {{same order}} they can be {{added or subtracted}}.
 All the elements are {{zeros}} in {{a zero matrix}}.
 If two matrices can be multiplied, they are {{conformable for multiplication}}.
 It is only possible to find $\bm{A}^2$ if $\bm{A}$ is {{square}}.
-{{A square matrix}} has {{the same number of rows and columns}}.
+{{A square matrix}} has the {{same number of rows and columns}}.
 {{Swap the rows and columns}} to {{transpose}} a matrix.
 $${{(\bm{AB})^T}} \equiv {{\bm{B}^T \bm{A}^T}}$$
 Matrix addition is {{associative}} and {{commutative}}.
@@ -25,7 +25,7 @@ $${{\det(\bm{A}^{-1})}} = {{\frac{1}{\det(\bm{A})} }}$$
 $${{(\bm{AB})^{-1} }} = {{\bm{B}^{-1} \bm{A}^{-1} }}$$
 area of image = {{area of original}} $\times$ ${{|\det(\bm{T})|}}$
 ${{\det(\bm{T}) < 0}} \iff$ the transformation involves {{a reflection}}.
-${{\det(\bm{T}) > 0}} \iff$ {{the orientation of the shape}} is {{preserved}}.
+${{\det(\bm{T}) > 0}} \iff$ the {{orientation of the shape}} is {{preserved}}.
 volume of image = {{volume of original}} $\times$ ${{|\det(\bm{T})|}}$
 A system of equations are {{inconsistent}} if there are {{no solutions}}.
 If three planes form {{a prism}} or {{two of the planes are parallel}}, the equations are {{inconsistent}}.
@@ -35,24 +35,24 @@ If three planes {{intersect at a single point}}, there is {{one solution}}.
 $\bm{Mx} = \bm{x}'$ has {{no solutions}} or {{infinitely many solutions}} $\iff {{\det(\bm{M}) = 0}}$.
 $\bm{Mx} = \bm{x}'$ has {{a unique solution}} $\iff {{\det(\bm{M}) \neq 0}}$.
 Any {{row or column}} can be used to find {{a determinant}}.
-The sign of each term in the determinant is given by {{the sign matrix}}.
+The sign of each term in the determinant is given by the {{sign matrix}}.
 $$\det(\bm{M}^T) = {{\det(\bm{M})}}$$
-Adding or subtracting {{any multiple of}} a row or column to another row or column has {{no affect}} on {{the determinant}}.
-{{Swapping two rows or columns}} changes {{the sign}} of {{the determinant}}.
-Multiplying or dividing a {{row or column}} by a scalar multiplies or divides {{the determinant}} by that scalar.
+Adding or subtracting {{any multiple of}} a row or column to another row or column has {{no affect}} on the {{determinant}}.
+{{Swapping two rows or columns}} changes the {{sign}} of the {{determinant}}.
+Multiplying or dividing a {{row or column}} by a scalar multiplies or divides the {{determinant}} by that scalar.
 A vector whose {{direction}} is {{unchanged}} by a transformation is {{an eigenvector}}.
 ${{\det(\bm{A} - \lambda \bm{I}) = 0}}$ is the {{characteristic equation}}.
-{{The Cayley-Hamilton theorem}} states that every matrix satisfies its own {{characteristic equation}}.
+The {{Cayley-Hamilton theorem}} states that every matrix satisfies its own {{characteristic equation}}.
 A matrix is {{diagonal}} if all the elements {{except those in the leading diagonal}} are {{zeros}}.
 ${{\bm{A} = \bm{A}^T}} \iff \bm{A}$ is {{symmetric}}.
 A matrix can be {{diagonalised}} by finding ${{\bm{M} = \bm{PDP}^{-1} }}$.
-{{The eigenvectors}} determine {{the direction}} of the {{invariant lines}} through {{the origin}}.
+The {{eigenvectors}} determine the {{direction}} of the {{invariant lines}} through the {{origin}}.
 If an eigenvector has a corresponding eigenvalue of {{one}}, it represents {{a line of invariant points}}.
 If a transformation has {{a repeated eigenvalue}}, there is {{an invariant plane}}.
 $${{a \times b}} = {{|a| |b| \sin \theta \hat{\bm{n} } }}$$
 The {{vector product}} is sometimes called the {{cross product}}.
 The vector product is {{anticommutative}} and {{distributive}}.
-The {{`right hand rule'}} can be used to determine the direction of {{the cross product}}.
+The {{`right hand rule'}} can be used to determine the direction of the {{cross product}}.
 ${{\bm{a} \times \bm{b} = 0}} \iff \bm{a}$ and $\bm{b}$ are {{parallel}}.
 {{Area of triangle}} $= {{\frac{1}{2} |\bm{a} \times \bm{b}|}}$
 The {{vector product}} equation of {{a line}} is ${{(\bm{r} - \bm{a}) \times \bm{b} = 0}}$.
@@ -60,9 +60,9 @@ The {{vector}} equation of {{a plane}} is ${{\bm{r} = \bm{a} + \lambda \bm{b} + 
 The {{scalar product}} equation of {{a plane}} is ${{\bm{r} \cdot \bm{n} = \bm{a} \cdot \bm{n} }}$.
 A vector {{perpendicular}} to a plane is {{normal}} to the plane.
 The {{Cartesian}} equation of {{a plane}} is ${{ax + by + cz = d}}$.
-The acute angle between a line and a plane is given by $${{\sin \theta = \left | \frac{\bm{b} \cdot \bm{n} }{|\bm{b}| |\bm{n}|} \right |}}$$
-The acute angle between two planes is given by $${{\cos \theta = \left | \frac{\bm{n_1} \cdot \bm{n_2} }{|\bm{n_1}| |\bm{n_2}|} \right |}}$$
-One can use {{definite integration}} to find {{the area under a curve}}.
+The {{acute angle}} between a line and a plane is given by $${{\sin \theta = \left | \frac{\bm{b} \cdot \bm{n} }{|\bm{b}| |\bm{n}|} \right |}}$$
+The {{acute angle}} between two planes is given by $${{\cos \theta = \left | \frac{\bm{n_1} \cdot \bm{n_2} }{|\bm{n_1}| |\bm{n_2}|} \right |}}$$
+One can use {{definite integration}} to find the {{area under a curve}}.
 $${{\int_a^b y dx}} = {{\lim_{n \to \infty} \sum_{i = 1}^n y_i \delta x}}$$
 {{Integration}} is the reverse of {{differentiation}}.
 A function to be integrated is called {{an integrand}}.
@@ -78,6 +78,6 @@ Statements {{that can be assumed to be true}} are {{axioms}}.
 One relies on {{axioms}} in {{direct proof}}.
 One must prove {{every possible case}} in {{proof by exhaustion}}.
 One can disprove a statement with {{a counter example}}.
-A line will intersect any plane unless they are parallel.
-Skew lines lie on parallel planes.
-The distance from a plane to the origin is $$\left | \frac{p}{|\bm{n}|} \right |$$
+A line will {{intersect}} any plane unless they are {{parallel}}.
+{{Skew}} lines lie on {{parallel planes}}.
+The {{distance from a plane to the origin}} is $${{\left | \frac{p}{|\bm{n}|} \right |}}$$
