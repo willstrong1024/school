@@ -89,3 +89,15 @@ $${{\frac{d^2y}{dx^2} < 0}} \iff y \text{ is {{concave}} }$$
 $${{\frac{d^2y}{dx^2} > 0}} \iff y \text{ is {{convex}} }$$
 A point where a curve {{changes concavity}} is a {{point of inflection}}.
 $$\text{A {{point of inflection}} } \implies {{\frac{d^2y}{dx^2} = 0}}$$
+$$\lim_{\theta \to 0} \frac{\sin \theta}{\theta} = 1$$
+$$\lim_{\theta \to 0} \frac{1 - \cos \theta}{\theta} = 0$$
+$$\frac{d}{dx} \sin x = \cos x$$
+$$\frac{d}{dx} \cos x = -\sin x$$
+$$e = \lim_{n \to \infty} \left (1 + \frac{1}{n} \right )^n$$
+$$\frac{d}{dx} e^x = e^x$$
+$$\frac{d}{dx} \ln x = \frac{1}{x}$$
+$$\frac{d}{dx} a^x = a^x \ln a$$
+$$\frac{d}{dx} (uv) = v \frac{du}{dx} + u \frac{dv}{dx}$$
+$$\frac{d}{dx} \left (\frac{u}{v} \right ) = \frac{v \frac{du}{dx} - u \frac{dv}{dx}}{v^2}$$
+$$\frac{dy}{dx} = \frac{dy}{du} \times \frac{du}{dx}$$
+$$\frac{dy}{dx} = \frac{1}{\frac{dx}{dy}}$$
