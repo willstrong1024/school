@@ -111,7 +111,7 @@ $${{\sin \theta / \tan \theta}} \approx \theta$$ (for small values of $\theta$ i
 $${{\cos \theta}} \approx {{1 - \frac{1}{2} \theta^2}}$$ (for small values of $\theta$ in radians)
 $${{\csc \theta}} = {{\frac{1}{\sin \theta} }}$$
 $${{\sec \theta}} = {{\frac{1}{\cos \theta} }}$$
-$${{\cot \theta = \frac{1}{\tan \theta} }}$$
+$${{\cot \theta}} = {{\frac{1}{\tan \theta} }}$$
 $${{\sec^2 \theta}} = {{1 + \tan^2 \theta}}$$
 $${{\csc^2 \theta}} = {{1 + \cot^2 \theta}}$$
 $${{\sin (A + B)}} = {{\cos A \sin B + \sin A \cos B}}$$
