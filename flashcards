@@ -101,23 +101,24 @@ $$\frac{d}{dx} ({{uv}}) = {{v \frac{du}{dx} + u \frac{dv}{dx} }}$$
 $$\frac{d}{dx} \left ({{\frac{u}{v} }} \right ) = {{\frac{v \frac{du}{dx} - u \frac{dv}{dx} }{v^2} }}$$
 $${{\frac{dy}{dx} }} = {{\frac{dy}{du} \times \frac{du}{dx} }}$$
 $$\int f(ax + b) dx = \frac{1}{a} F(ax + b) + c$$
-$$\int u \frac{dv}{dx} dx = uv - \int v \frac{du}{dx} dx$$
-$$2 \pi \text{ radians} = 360^\circ$$
-$$s = r \theta$$
-$$A = \frac{1}{2} r^2 \theta$$
-$$\sin \theta \approx \theta$$
-$$\tan \theta \approx \theta$$
-$$\cos \theta \approx 1 - \frac{1}{2} \theta^2$$
-$$\csc \theta = \frac{1}{\sin \theta}$$
-$$\sec \theta = \frac{1}{\cos \theta}$$
-$$\cot \theta = \frac{1}{\tan \theta}$$
-$$\sec^2 \theta = 1 + \tan^2 \theta$$
-$$\csc^2 \theta = 1 + \cot^2 \theta$$
-$$\sin (A + B) = \cos A \sin B + \sin A \cos B$$
-$$\cos (A + B) = \cos A \cos B - \sin A \sin B$$
-$$\tan (A + B) = \frac{\tan A + \tan B}{1 - \tan A \tan B}$$
-$$\sin (- \theta) = - \sin \theta$$
-$$\cos (- \theta) = \cos \theta$$
-$$\sin 2 \theta = 2 \sin \theta \cos \theta$$
-$$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
-$$\tan 2 \theta = \frac{2 \tan \theta}{1 - \tan^2 \theta}$$
+$${{\int u \frac{dv}{dx} dx}} = {{uv - \int v \frac{du}{dx} dx}}$$
+$${{2 \pi}} \text{ radians} = {{360}}^\circ$$
+$${{s}} = {{r \theta}}$$
+$${{A}} = {{\frac{1}{2} r^2 \theta}}$$
+$$\sin \theta \approx {{\theta}}$$ (for small values of $\theta$ in radians)
+$$\tan \theta \approx {{\theta}}$$ (for small values of $\theta$ in radians)
+$${{\sin \theta / \tan \theta}} \approx \theta$$ (for small values of $\theta$ in radians)
+$${{\cos \theta}} \approx {{1 - \frac{1}{2} \theta^2}}$$ (for small values of $\theta$ in radians)
+$${{\csc \theta}} = {{\frac{1}{\sin \theta} }}$$
+$${{\sec \theta}} = {{\frac{1}{\cos \theta} }}$$
+$${{\cot \theta = \frac{1}{\tan \theta} }}$$
+$${{\sec^2 \theta}} = {{1 + \tan^2 \theta}}$$
+$${{\csc^2 \theta}} = {{1 + \cot^2 \theta}}$$
+$${{\sin (A + B)}} = {{\cos A \sin B + \sin A \cos B}}$$
+$${{\cos (A + B)}} = {{\cos A \cos B - \sin A \sin B}}$$
+$${{\tan (A + B)}} = {{\frac{\tan A + \tan B}{1 - \tan A \tan B} }}$$
+$$\sin (- \theta) = {{- \sin \theta}}$$
+$$\cos (- \theta) = {{\cos \theta}}$$
+$${{\sin 2 \theta}} = {{2 \sin \theta \cos \theta}}$$
+$${{\cos 2 \theta}} = {{\cos^2 \theta - \sin^2 \theta}}$$
+$${{\tan 2 \theta}} = {{\frac{2 \tan \theta}{1 - \tan^2 \theta} }}$$
