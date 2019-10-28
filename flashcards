@@ -123,20 +123,21 @@ $${{\sin 2 \theta}} = {{2 \sin \theta \cos \theta}}$$
 $${{\cos 2 \theta}} = {{\cos^2 \theta - \sin^2 \theta}}$$
 $${{\tan 2 \theta}} = {{\frac{2 \tan \theta}{1 - \tan^2 \theta} }}$$
 $$\int_a^b f(x) dx = - \int_b^a f(x) dx$$
-$$u_{n + 1} > u_n \forall n \in \mathbb{Z}^+ \iff \text{ the sequence is increasing}$$
-$$u_{n + 1} < u_n \forall n \in \mathbb{Z}^+ \iff \text{ the sequence is decreasing}$$
-A sequence is periodic if it consists of repeating terms.
-The number of repeated terms in a periodic sequence is the period.
-The period of a sequence is also called the order.
-A sequence converges if it gets closer and closer to a number.
-The number a sequence converges to is the limit of the sequence.
-A sequence is arithmetic if the next term is found by adding a constant to the previous term.
-The difference between consecutive terms in an arithmetic sequence is called the common difference.
-The $n$th term of an arithmetic sequence is $u_n = a + (n - 1)d$.
-$$S_n = \frac{1}{2} [2a + (n - 1)d]$$
-A sequence is geometric if the next term is found by multiplying the previous term by a non-zero constant.
-The number that each term is multiplied by in a geometric series is called the common ratio.
-The $n$th term of a geometric sequence is $u_n = ar^{n - 1}$.
-$$S_n = \frac{a(1 - r^n)}{1 - r}$$
-$$S_\infty = \frac{1}{1-r}$$
-$$|r| < 1 \iff \text{ the infinite geometric series converges}$$
+$${{u_{n + 1} > u_n \forall n \in \mathbb{Z}^+}} \iff \text{ the sequence is increasing}$$
+$${{u_{n + 1} < u_n \forall n \in \mathbb{Z}^+}} \iff \text{ the sequence is decreasing}$$
+A sequence is {{periodic}} if it consists of {{repeating terms}}.
+The number of {{repeated terms}} in a periodic sequence is the {{period}}.
+The {{period}} of a sequence is also called the {{order}}.
+A sequence {{converges}} if it {{gets closer and closer to a number}}.
+The number a sequence {{converges to}} is the {{limit}}.
+A sequence is {{arithmetic}} if the next term is found by {{adding a constant to the previous term}}.
+The {{difference between consecutive terms}} in an arithmetic sequence is called the {{common difference}}.
+The $n$th term of an {{arithmetic sequence}} is ${{u_n = a + (n - 1)d}}$.
+$$S_n = {{\frac{1}{2} [2a + (n - 1)d]::\text{arithmetic series} }}$$
+A sequence is {{geometric}} if the next term is found by {{multiplying the previous term by a constant}}.
+The {{number each term is multiplied by}} in a geometric sequence is called the {{common ratio}}.
+The {{common ratio}} of a geometric series must be {{non-zero}}.
+The $n$th term of a {{geometric sequence}} is ${{u_n = ar^{n - 1} }}$.
+$$S_n = {{\frac{a(1 - r^n)}{1 - r}::\text{geometric series} }}$$
+$$S_\infty = {{\frac{1}{1-r} }}$$
+$${{|r| < 1}} \iff \text{ the infinite geometric series {{converges}} }$$
