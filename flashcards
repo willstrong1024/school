@@ -122,7 +122,7 @@ $$\cos (- \theta) = {{\cos \theta}}$$
 $${{\sin 2 \theta}} = {{2 \sin \theta \cos \theta}}$$
 $${{\cos 2 \theta}} = {{\cos^2 \theta - \sin^2 \theta}}$$
 $${{\tan 2 \theta}} = {{\frac{2 \tan \theta}{1 - \tan^2 \theta} }}$$
-$$\int_a^b f(x) dx = - \int_b^a f(x) dx$$
+$$ - \int_b^a f(x) dx = {{\int_a^b f(x) dx}}$$
 $${{u_{n + 1} > u_n \forall n \in \mathbb{Z}^+}} \iff \text{ the sequence is increasing}$$
 $${{u_{n + 1} < u_n \forall n \in \mathbb{Z}^+}} \iff \text{ the sequence is decreasing}$$
 A sequence is {{periodic}} if it consists of {{repeating terms}}.
@@ -141,3 +141,8 @@ The $n$th term of a {{geometric sequence}} is ${{u_n = ar^{n - 1} }}$.
 $$S_n = {{\frac{a(1 - r^n)}{1 - r}::\text{geometric series} }}$$
 $$S_\infty = {{\frac{1}{1-r} }}$$
 $${{|r| < 1}} \iff \text{ the infinite geometric series {{converges}} }$$
+The trapezium rule is used to approximate the area beneath a curve.
+$$\int_a^b f(x) dx \approx \frac{1}{2} h [(y_0 + y_n) + 2(y_1 + y_2 + ... + y_{n-1})]$$
+Increasing the number of intervals increases the accuracy of the trapezium rule.
+If the curve is convex, the trapezium rule overestimates the area.
+If the curve is concave, the trapezium rule underestimates the area.
