@@ -133,7 +133,7 @@ The number a sequence {{converges to}} is the {{limit}}.
 A sequence is {{arithmetic}} if the next term is found by {{adding a constant to the previous term}}.
 The {{difference between consecutive terms}} in an arithmetic sequence is called the {{common difference}}.
 The $n$th term of an {{arithmetic sequence}} is ${{u_n = a + (n - 1)d}}$.
-$$S_n = {{\frac{1}{2} [2a + (n - 1)d]::\text{arithmetic series} }}$$
+$$S_n = {{\frac{1}{2} n [2a + (n - 1)d]::\text{arithmetic series} }}$$
 A sequence is {{geometric}} if the next term is found by {{multiplying the previous term by a constant}}.
 The {{number each term is multiplied by}} in a geometric sequence is called the {{common ratio}}.
 The {{common ratio}} of a geometric series must be {{non-zero}}.
