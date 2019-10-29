@@ -146,3 +146,9 @@ $$\int_a^b f(x) dx \approx {{\frac{1}{2} h [(y_0 + y_n) + 2(y_1 + y_2 + ... + y_
 {{Increasing the number of intervals}} increases the {{accuracy}} of the trapezium rule.
 If the curve is {{convex}}, the trapezium rule {{overestimates}} the area.
 If the curve is {{concave}}, the trapezium rule {{underestimates}} the area.
+A differential equation relates a function with its derivatives.
+Integrating a differential equation will result in a general solution.
+The general solution of a differential equation represents a family of solutions.
+A point in the solution is referred to as the initial condition.
+A particular solution can be found using the initial condition.
+One must seperate the variables to find the solution of a differential equation.
