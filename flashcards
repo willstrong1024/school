@@ -150,17 +150,15 @@ A {{differential equation}} relates a function to its {{derivatives}}.
 The {{general solution}} of a differential equation represents a {{family of solutions}}.
 A {{point in the solution}} of a differential equation is referred to as the {{initial condition}}.
 A {{particular solution}} to a differential equation can be found using the {{initial condition}}.
-
-The arithmetic mean of $n$ numbers is the sum of the numbers divided by $n$.
-The geometric mean of $n$ numbers is the $n$th root of the product of the numbers.
-The geometric mean is the arithmetic mean of the logarithms.
-The AM-GM inequality states the arithmetic mean is never smaller than the geometric mean.
-The AM-GM inequality is true for non-negative real numbers.
-The quadratic mean is the square root of the arithmetic mean of the squares.
-The quadratic mean is also called the root mean square.
-A harmonic sequence is the reciprocals of an arithmetic sequence.
-The reciprocal of the harmonic mean is the arithmetic mean of the reciprocals.
-The Pythagorean means are the arithmetic, geometric and harmonic means.
-The harmonic mean is the smallest of the Pythagorean means.
-Every term in a harmonic sequence is the harmonic mean of its neighbours.
-The quadratic mean is greater than or equal to the arithmetic mean.
+The {{geometric mean}} is the {{arithmetic mean}} of the {{logarithms}}.
+The {{quadratic mean}} is also called the {{root mean square}}.
+A {{harmonic sequence}} is the {{reciprocals}} of an {{arithmetic sequence}}.
+The {{arithmetic, geometric and harmonic means}} are the {{Pythagorean means}}.
+Every term in a {{harmonic sequence}} is the {{harmonic mean}} of its {{neighbours}}.
+{{Arithmetic mean}} $\geq$ {{Geometric mean}}
+{{Quadratic mean}} $\geq$ {{Arithmetic mean}}
+{{Geometric mean}} $\geq$ {{Harmonic mean}}
+$$\text{ {{Arithmetic mean}} } = {{\frac{a_1 + a_2 + \cdot \cdot \cdot + a_n}{n} }}$$
+$$\text{ {{Geometric mean}} } = {{\sqrt[n]{a_1 \times a_2 \times \cdot \cdot \cdot \times a_n} }}$$
+$$\text{ {{Quadratic mean}} } = {{\sqrt{\frac{a_1^2 + a_2^2 + \cdot \cdot \cdot + a_n^2}{n} } }}$$
+$$\text{ {{Harmonic mean}} } = {{\frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \cdot \cdot \cdot + \frac{1}{a_n} } }}$$
