@@ -63,7 +63,6 @@ The {{Cartesian}} equation of a {{plane}} is ${{ax + by + cz = d}}$.
 The {{acute angle}} between a line and a plane is given by $${{\sin \theta = \left | \frac{\bm{b} \cdot \bm{n} }{|\bm{b}| |\bm{n}|} \right |}}$$
 The {{acute angle}} between two planes is given by $${{\cos \theta = \left | \frac{\bm{n_1} \cdot \bm{n_2} }{|\bm{n_1}| |\bm{n_2}|} \right |}}$$
 {{Definite integration}} gives the {{area beneath a curve}}.
-$${{\int_a^b y dx}} = {{\lim_{n \to \infty} \sum_{i = 1}^n y_i \delta x}}$$
 {{Integration}} is the reverse of {{differentiation}}.
 A function to be integrated is called {{an integrand}}.
 $$\int {{x^n}} dx = {{\frac{1}{n + 1} x^{n + 1} + c}}$$
@@ -151,3 +150,17 @@ A {{differential equation}} relates a function to its {{derivatives}}.
 The {{general solution}} of a differential equation represents a {{family of solutions}}.
 A {{point in the solution}} of a differential equation is referred to as the {{initial condition}}.
 A {{particular solution}} to a differential equation can be found using the {{initial condition}}.
+
+The arithmetic mean of $n$ numbers is the sum of the numbers divided by $n$.
+The geometric mean of $n$ numbers is the $n$th root of the product of the numbers.
+The geometric mean is the arithmetic mean of the logarithms.
+The AM-GM inequality states the arithmetic mean is never smaller than the geometric mean.
+The AM-GM inequality is true for non-negative real numbers.
+The quadratic mean is the square root of the arithmetic mean of the squares.
+The quadratic mean is also called the root mean square.
+A harmonic sequence is the reciprocals of an arithmetic sequence.
+The reciprocal of the harmonic mean is the arithmetic mean of the reciprocals.
+The Pythagorean means are the arithmetic, geometric and harmonic means.
+The harmonic mean is the smallest of the Pythagorean means.
+Every term in a harmonic sequence is the harmonic mean of its neighbours.
+The quadratic mean is greater than or equal to the arithmetic mean.
