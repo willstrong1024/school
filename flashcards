@@ -162,15 +162,15 @@ $$\text{ {{Arithmetic mean}} } = {{\frac{a_1 + a_2 + \cdot \cdot \cdot + a_n}{n}
 $$\text{ {{Geometric mean}} } = {{\sqrt[n]{a_1 \times a_2 \times \cdot \cdot \cdot \times a_n} }}$$
 $$\text{ {{Quadratic mean}} } = {{\sqrt{\frac{a_1^2 + a_2^2 + \cdot \cdot \cdot + a_n^2}{n} } }}$$
 $$\text{ {{Harmonic mean}} } = {{\frac{n}{\frac{1}{a_1} + \frac{1}{a_2} + \cdot \cdot \cdot + \frac{1}{a_n} } }}$$
-An integral is improper if one or both of the limits are $\pm \infty$.
-An integral is improper if the integrand is undefined at or between the limits.
-If the limit of an improper integral exists, it is convergent.
-If the limit of an improper integral does not exist, it is divergent.
-$$\lim_{x \to \infty} x^k e^{-x} = 0$$
-$$\lim_{x \to 0^+} x^k \ln x = 0$$
-$$\frac{d}{dx} \arcsin x = \frac{1}{\sqrt{1 - x^2} }$$
-$$\frac{d}{dx} \arccos x = - \frac{1}{\sqrt{1 - x^2} }$$
-$$\frac{d}{dx} \arctan x = \frac{1}{1 + x^2}$$
-$$\int \frac{1}{\sqrt{1 - x^2} } dx = \arcsin x + c$$
-$$\int - \frac{1}{\sqrt{1 - x^2} } dx = \arccos x + c$$
-$$\int \frac{1}{1 + x^2} dx = \arctan x + c$$
+An integral is {{improper}} if one or both of the limits are ${{\pm \infty}}$.
+An integral is {{improper}} if the integrand is {{undefined}} at or between the limits.
+If the limit of an improper integral {{exists}}, it is {{convergent}}.
+If the limit of an improper integral {{does not exist}}, it is {{divergent}}.
+$$\lim_{x \to \infty} x^k e^{-x} = {{0}}$$
+$$\lim_{x \to 0^+} x^k \ln x = {{0}}$$
+$$\frac{d}{dx} {{\arcsin x}} = {{\frac{1}{\sqrt{1 - x^2} } }}$$
+$$\frac{d}{dx} {{\arccos x}} = {{- \frac{1}{\sqrt{1 - x^2} } }}$$
+$$\frac{d}{dx} {{\arctan x}} = {{\frac{1}{1 + x^2} }}$$
+$$\int {{\frac{1}{\sqrt{1 - x^2} } }} dx = {{\arcsin x + c}}$$
+$$\int {{- \frac{1}{\sqrt{1 - x^2} } }} dx = {{\arccos x + c}}$$
+$$\int {{\frac{1}{1 + x^2} }} dx = {{\arctan x + c}}$$
