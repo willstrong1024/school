@@ -180,3 +180,6 @@ A {{Maclaurin series}} produces {{approximations}} of a function for {{inputs cl
 A {{Maclaurin series}} is a {{Taylor series}} centered about {{zero}}.
 $$\lim_{x \to a} \frac{f(x)}{g(x)} = {{\lim_{x \to a} \frac{f'(x)}{g'(x)}::\text{L'H\^{o}pitals rule} }}$$
 {{L'H\^{o}pitals rule}} is used to evaluate {{indeterminant}} limits.
+A Maclaurin series must be convergent.
+Each of the terms in a Maclaurin series must be defined at $x = 0$.
+A function must be differentiable to have a Maclaurin series.
