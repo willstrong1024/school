@@ -150,7 +150,7 @@ A {{differential equation}} relates a function to its {{derivatives}}.
 The {{general solution}} of a differential equation represents a {{family of solutions}}.
 A {{point in the solution}} of a differential equation is referred to as the {{initial condition}}.
 A {{particular solution}} to a differential equation can be found using the {{initial condition}}.
-The {{geometric mean}} is the {{arithmetic mean}} of the {{logarithms}}.
+The {{logarithm of the geometric mean}} is the {{arithmetic mean of the logarithms}}.
 The {{quadratic mean}} is also called the {{root mean square}}.
 A {{harmonic sequence}} is the {{reciprocals}} of an {{arithmetic sequence}}.
 The {{arithmetic, geometric and harmonic means}} are the {{Pythagorean means}}.
@@ -174,9 +174,9 @@ $$\frac{d}{dx} {{\arctan x}} = {{\frac{1}{1 + x^2} }}$$
 $$\int {{\frac{1}{\sqrt{1 - x^2} } }} dx = {{\arcsin x + c}}$$
 $$\int {{- \frac{1}{\sqrt{1 - x^2} } }} dx = {{\arccos x + c}}$$
 $$\int {{\frac{1}{1 + x^2} }} dx = {{\arctan x + c}}$$
-A convergent series has an infinite number of terms and a finite sum.
-$$f(x) \equiv f(0) + x f'(0) + \frac{x^2}{2!} f''(0) + \frac{x^3}{3!} f'''(0) + \cdot \cdot \cdot$$ (Maclaurin series)
-A Maclaurin series produces approximations of a function for inputs close to zero.
-A Maclaurin series is a Taylor series centered about zero.
-$$\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$$ (L'H\^{o}pitals rule)
-L'H\^{o}pitals rule is used to evaluate indeterminant limits.
+A {{convergent}} series has an {{infinite number of terms}} and a {{finite sum}}.
+$$f(x) \equiv {{f(0) + x f'(0) + \frac{x^2}{2!} f''(0) + \frac{x^3}{3!} f'''(0) + \cdot \cdot \cdot::\text{Maclaurin series} }}$$
+A {{Maclaurin series}} produces {{approximations}} of a function for {{inputs close to zero}}.
+A {{Maclaurin series}} is a {{Taylor series}} centered about {{zero}}.
+$$\lim_{x \to a} \frac{f(x)}{g(x)} = {{\lim_{x \to a} \frac{f'(x)}{g'(x)}::\text{L'H\^{o}pitals rule} }}$$
+{{L'H\^{o}pitals rule}} is used to evaluate {{indeterminant}} limits.
