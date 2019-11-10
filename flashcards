@@ -183,3 +183,37 @@ $$\lim_{x \to a} \frac{f(x)}{g(x)} = {{\lim_{x \to a} \frac{f'(x)}{g'(x)}::\text
 A Maclaurin series must be {{convergent}}.
 Each of the terms in a {{Maclaurin series}} must be {{defined}} at ${{x = 0}}$.
 A function must be {{differentiable}} to have a Maclaurin series.
+
+A capacitor is a device designed to store charge.
+Each plate of a capacitor has an equal and opposite charge.
+A capacitor consists of two conductors insulated from each other.
+$$C = \frac{Q}{V}$$
+Energy is stored in a capacitor as electric potential energy.
+$$E = \frac{1}{2} QV$$
+$E = QV$, thus half of the energy supplied is stored in the capacitor.
+A uniform field is created between the Earth and a thundercloud.
+When the height of a thundercloud changes, the electric field strength is unchanged.
+The insulating property of air breaks down if it is subjected to an electric field stronger than about $\SI{300}{\kilo\volt\per\metre}$
+The discharging current decreases as a capacitor discharges.
+The potential difference across a capacitor decreases as it discharges.
+$$Q = Q_0 e^{\frac{-t}{RC} }$$
+$$\text{Time constant} = RC$$
+The charging current of a capacitor decreases as the charge increases.
+When a capacitor is fully charged, the potential difference is equal to the source potential difference.
+When a capacitor is fully charged, the current is zero.
+The time constant is the time taken for the charge to reach 63\% of the maximum.
+$5RC$ is time taken for a capacitor to reach more than 99\% of the maximum charge.
+The current decreases exponentially when charging a capacitor.
+The charge stored on the plates of a capacitor can be increased by using a dielectric.
+Dielectrics are made from electrically insulating materials.
+Dielectrics increase the capacitance of capacitors.
+$$\epsilon_r = \frac{Q}{Q_0} = \frac{C}{C_0}$$
+The relative permittivity of a substance is also called its dielectric constant.
+$$C = \frac{A \epsilon_0 \epsilon_r}{d}$$
+Most capacitors consit of two strips of aluminum foil, seperated by a dielectric and rolled up.
+Orientation polarisation is caused by electrons in covalent bonds being shared unequally.
+Ionic polarisation is caused by the oppositely charged ions of ionic bonds.
+Electronic polarisation is caused by the electrons being displaced relative to the nucleus.
+Polar dipoles rotate in alternating fields.
+Non-polar dipoles oscillate in alternating fields.
+Polarisation doesn't work in high frequency alternating fields due to the inertia of the particles.
