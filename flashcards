@@ -180,7 +180,7 @@ A {{Maclaurin series}} produces {{approximations}} of a function for {{inputs cl
 A {{Maclaurin series}} is a {{Taylor series}} centered about {{zero}}.
 $$\lim_{x \to a} \frac{f(x)}{g(x)} = {{\lim_{x \to a} \frac{f'(x)}{g'(x)}::\text{L'H\^{o}pitals rule} }}$$
 {{L'H\^{o}pitals rule}} is used to evaluate {{indeterminant}} limits.
-A Maclaurin series must be {{convergent}}.
+A Maclaurin series must {{converge}}.
 Each of the terms in a {{Maclaurin series}} must be {{defined}} at ${{x = 0}}$.
 A function must be {{differentiable}} to have a Maclaurin series.
 
@@ -209,14 +209,14 @@ The {{charge}} stored by a capacitor can be {{increased}} by using a {{dielectri
 $${{\epsilon_r}} = {{\frac{Q}{Q_0} }}$$
 The {{relative permittivity}} of a substance is also called its {{dielectric constant}}.
 $${{C}} = {{\frac{A \epsilon_0 \epsilon_r}{d}::\text{proportion} }}$$
-{{Orientation polarisation}} is caused by {{electrons}} being shared {{unequally}}.
-{{Ionic polarisation}} is caused by {{oppositely charged ions}}.
-{{Electronic polarisation}} is caused by the {{electrons}} being displaced relative to the {{nucleus}}.
-{{Polar dipoles}} {{rotate}} in alternating fields.
-{{Non-polar dipoles}} {{oscillate}} in alternating fields.
+{{Orientation}} polarisation is caused by {{electrons}} being shared {{unequally}}.
+{{Ionic}} polarisation is caused by {{oppositely charged ions}}.
+{{Electronic}} polarisation is caused by the {{electrons}} being displaced relative to the {{nucleus}}.
+{{Polar}} dipoles {{rotate}} in alternating fields.
+{{Non-polar}} dipoles {{oscillate}} in alternating fields.
 {{Polarisation}} doesn't work in {{high frequency}} {{alternating fields}}.
 {{Capacitance}} is {{proportional}} to the {{surface area}} of the plates.
 {{Capacitance}} is {{inversely proportional}} to the {{seperation}} of the plates.
 {{Capacitance}} is {{proportional}} to the {{relative permitivitty}} of the dielectric.
-{{Orientation polarisation}} occurs in substances that contain molecules that have {{covalent bonds}}.
-{{Ionic polarisation}} occurs in substances where ions are held together by {{ionic bonds}}.
+{{Orientation}} polarisation occurs in substances that contain molecules that have {{covalent bonds}}.
+{{Ionic}} polarisation occurs in substances where ions are held together by {{ionic bonds}}.
