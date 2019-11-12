@@ -103,7 +103,7 @@ $$\int f(ax + b) dx = \frac{1}{a} F(ax + b) + c$$
 $${{\int u \frac{dv}{dx} dx}} = {{uv - \int v \frac{du}{dx} dx}}$$
 $${{2 \pi}} \text{ radians} = {{360}}^\circ$$
 $${{s}} = {{r \theta}}$$
-$${{A}} = {{\frac{1}{2} r^2 \theta}}$$
+$${{A}} = {{\frac{1}{2} r^2 \theta::\text{segment} }}$$
 $$\sin \theta \approx {{\theta}}$$ (for small values of $\theta$ in radians)
 $$\tan \theta \approx {{\theta}}$$ (for small values of $\theta$ in radians)
 $${{\sin \theta / \tan \theta}} \approx \theta$$ (for small values of $\theta$ in radians)
