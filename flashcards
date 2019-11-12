@@ -209,8 +209,8 @@ The {{charge}} stored by a capacitor can be {{increased}} by using a {{dielectri
 $${{\epsilon_r}} = {{\frac{Q}{Q_0} }}$$
 The {{relative permittivity}} of a substance is also called its {{dielectric constant}}.
 $${{C}} = {{\frac{A \epsilon_0 \epsilon_r}{d}::\text{proportion} }}$$
-{{Orientation}} polarisation is caused by {{electrons}} being shared {{unequally}}.
-{{Ionic}} polarisation is caused by {{oppositely charged ions}}.
+{{Orientation}} polarisation is caused by {{electrons}} being shared {{unequally}} in {{covalent bonds}}.
+{{Ionic}} polarisation is caused by {{oppositely charged ions}} in {{ionic bonds}}.
 {{Electronic}} polarisation is caused by the {{electrons}} being displaced relative to the {{nucleus}}.
 {{Polar}} dipoles {{rotate}} in alternating fields.
 {{Non-polar}} dipoles {{oscillate}} in alternating fields.
@@ -218,5 +218,3 @@ $${{C}} = {{\frac{A \epsilon_0 \epsilon_r}{d}::\text{proportion} }}$$
 {{Capacitance}} is {{proportional}} to the {{surface area}} of the plates.
 {{Capacitance}} is {{inversely proportional}} to the {{seperation}} of the plates.
 {{Capacitance}} is {{proportional}} to the {{relative permitivitty}} of the dielectric.
-{{Orientation}} polarisation occurs in substances that contain molecules that have {{covalent bonds}}.
-{{Ionic}} polarisation occurs in substances where ions are held together by {{ionic bonds}}.
