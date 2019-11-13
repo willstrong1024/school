@@ -183,7 +183,6 @@ $$\lim_{x \to a} \frac{f(x)}{g(x)} = {{\lim_{x \to a} \frac{f'(x)}{g'(x)}::\text
 A Maclaurin series must {{converge}}.
 Each of the terms in a {{Maclaurin series}} must be {{defined}} at ${{x = 0}}$.
 A function must be {{differentiable}} to have a Maclaurin series.
-
 A {{capacitor}} is a device designed to {{store charge}}.
 Each plate of a capacitor has an {{equal and opposite}} {{charge}}.
 A {{capacitor}} consists of two {{conductors}} {{insulated}} from each other.
@@ -218,3 +217,71 @@ $${{C}} = {{\frac{A \epsilon_0 \epsilon_r}{d}::\text{proportion} }}$$
 {{Capacitance}} is {{proportional}} to the {{surface area}} of the plates.
 {{Capacitance}} is {{inversely proportional}} to the {{seperation}} of the plates.
 {{Capacitance}} is {{proportional}} to the {{relative permitivitty}} of the dielectric.
+
+The nuclear model was proposed by Ernest Rutherford in 1911.
+Most $\alpha$ particles passed straight through the foil.
+1 in 2000 $\alpha$ particles were deflected.
+1 in 10000 $\alpha$ particles were deflected by angles of more than $90^{\circ}$.
+Most of the atom's mass is concentrated in the nucleus.
+The nucleus is in the centre of the atom.
+The nucleus is postively charged.
+The closer the $\alpha$ particles are to the nucleus, the greater the deflection.
+Rutherford also showed that the charge of the nucleus was $+Ze$.
+A magnetic field deflects $\alpha$ and $\beta$ radiation in opposite directions.
+A magnetic field has no effect on $\gamma$ radiation.
+$\alpha$ radiation causes strong ionisation.
+$\alpha$ radiation has a range of a few centimetres in air.
+$\beta$ radiation has a weaker ionising effect than $\alpha$ radiation.
+$\beta$ radiation has a range of up to a metre in air.
+$\gamma$ radiation has the weakest ionising effect.
+All $\alpha$ particles from a given isotope have the same range.
+$\alpha$ particles produce straight tracks in cloud chambers.
+All the tracks produced by $\alpha$ particles in a cloud chamber are the same length.
+The tracks produced by $\alpha$ particles in a cloud chamber are easily visible.
+$\beta$ particles produce wispy tracks in a cloud chamber.
+The tracks produced by $\beta$ particles are not as easy to see.
+$\alpha$ radiation is absorbed completely by paper.
+$\beta$ radiation is absorbed completely by about $\SI{5}{\milli\metre}$ of metal.
+$\gamma$ radiation is absorbed completely by several centimetres of lead.
+A Geiger tube contains low pressure argon gas.
+$\beta$ particles from a given source have a range of initial kinetic energies.
+The initial kinetic energy of $\alpha$ particles varies between sources.
+$\gamma$ radiation has an unlimited range in air.
+The count rate decreases as distance increases because the $\gamma$ radiation spreads out.
+Each $\alpha$ particle is composed of two protons and two neutrons.
+$\beta$ radiation consists of fast-moving electrons.
+Neutron-rich nuclei undergo $\beta^-$ emission.
+Proton-rich nuclei undergo $\beta^+$ emission.
+A $\beta^-$ particle is an electron.
+A $\beta^+$ particle is a positron.
+A nucleus with too many protons emits a positron.
+The positron is the antiparticle of the electron.
+$\gamma$ radiation consists of photons.
+$$I = \frac{nhf}{4{\pi}r^2}$$
+A $\gamma$ photon is emitted if a nucleus has excess energy after $\alpha$ or $\beta$ decay.
+A proton absorbs an inner-shell electron in electron capture.
+The inner-shell vacancy caused by electron capture is filled by an outer-shell electron.
+Ionising radiation can destroy cell membranes.
+Ionising radiation can damage DNA.
+Damaged DNA may cause cells to divide and grow uncontrollably.
+High doses of ionising radiation can kill cells.
+High and low doses of ionising radiation can cause mutation.
+Anyone using equipment that produces ionising radiation must wear a film badge.
+A film badge monitors one's exposure to ionising radiation.
+Only approved institutions are allowed to use radioactive materials.
+Radioactive materials should be stored in lead-lined containers.
+Containers storing radioactive materials must be kept under `lock and key'.
+Solid radioactive sources should be transferred using tongs.
+Liquid, gas and powder radioactive sources should be kept in sealed containers.
+Radioactive sources shouldn't be used for longer than necessary.
+The half life is the time taken for the mass of the isotope to decrease to half of the initial mass.
+The activity is the number of nuclei of an isotope that decay per second.
+The unit of activity is the becquerel (Bq).
+The activity of a radioactive isotope is proportional to the mass.
+The activity of a radioactive isotope decreases over time.
+$$\text{Power of a source} = AE$$
+$$A = \lambda N$$
+$$N = N_0 e^{- \lambda t}$$
+The decay constant is the probability of an individual nucleus decaying per second.
+$$T_{\frac{1}{2} } = \frac{\ln{2} }{\lambda}$$
+An exponential relationship occurs when the rate of change depends on the variable.
