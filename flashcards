@@ -333,21 +333,20 @@ $${{R \sin \theta_{min} }} = {{0.61 \lambda}}$$
 Radon gas, cosmic rays, and food and water are sources of {{background radiation}}.
 Radon gas can accumulate in {{poorly ventilated areas}}.
 
-$$|\bm{a} \cdot \bm{b}| \leq |\bm{a}||\bm{b}|$$
-The square of a real number is never negative.
-$$a_1 b_n + a_2 b_{n - 1} + \cdot \cdot \cdot + a_n b_1 \leq a_1 b_1 + a_2 b_2 + \cdot \cdot \cdot + a_n b_n$$
-$$a^n - b^n = (a - b)(a^{n - 1} + a^{n - 2} b + \cdot \cdot \cdot + a b^{n - 2} + b^{n - 1})$$
-The remainder of $f(x)$ upon division by $x - c$ is $f(c)$.
-$$f(c) = 0 \iff x - c \text{ is a factor of } f(x)$$
-If more than $n$ objects are put in $n$ boxes then at least one box must contain more than one object.
-$a_n \geq m \forall n \iff$ the sequence is bounded below.
-$a_n \leq m \forall n \iff$ the sequence is bounded above.
-If a sequence is bounded above and bounded below, the sequence is bounded.
-In a Cauchy sequence the elements become arbitrarily close to each other as the sequence progresses.
-In an alternating sequence the sign of each term changes.
-$a_{n + 1} = a_n \iff$ the sequence is constant.
-$${n \choose r} = \frac{n!}{r!(n - r)!}$$
-Double counting is a combinatorial proof technique.
-Colouring is a technique in combinatorics.
-If there are three consecutive integers, one must be a multiple of three.
-An equation is a Diophantine equation if only the integer solutions are studied.
+$${{|\bm{a} \cdot \bm{b}|}} \leq {{|\bm{a}||\bm{b}|}}$$
+$${{a_1 b_n + a_2 b_{n - 1} + \cdot \cdot \cdot + a_n b_1}} \leq {{a_1 b_1 + a_2 b_2 + \cdot \cdot \cdot + a_n b_n}}$$
+$${{a^n - b^n}} = {{(a - b)(a^{n - 1} + a^{n - 2} b + \cdot \cdot \cdot + a b^{n - 2} + b^{n - 1})}}$$
+The {{remainder}} of $f(x)$ upon division by ${{x - c}}$ is ${{f(c)}}$.
+${{f(c) = 0}} \iff x - c$ is a {{factor of $f(x)$}}
+If {{more than $n$ objects are put in $n$ boxes}} then {{at least one box must contain more than one object}}.
+${{a_n \geq m \forall n}} \iff$ the sequence is {{bounded below}}.
+${{a_n \leq m \forall n}} \iff$ the sequence is {{bounded above}}.
+If a sequence is {{bounded above and bounded below}}, the sequence is {{bounded}}.
+In a {{Cauchy sequence}} the elements become {{arbitrarily close to each other}}.
+In an {{alternating sequence}} the {{sign}} of each term changes.
+${{a_{n + 1} = a_n}} \iff$ the sequence is {{constant}}.
+$${{ {n \choose r} }} = {{\frac{n!}{r!(n - r)!} }}$$
+{{Double counting}} is when one counts the size of a set in {{two different ways}}.
+{{Colouring}} can be used to solve board-tiling problems.
+If there are {{$n$ consecutive integers}}, one must be a {{multiple of $n$}}.
+An equation is {{Diophantine}} if {{only the integer solutions are studied}}.
