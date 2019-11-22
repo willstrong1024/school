@@ -332,7 +332,6 @@ $${{C}} = {{C_1 + C_2 + C_3 + \cdot \cdot \cdot}}$$ (Capacitors in {{parallel}})
 $${{R \sin \theta_{min} }} = {{0.61 \lambda}}$$
 Radon gas, cosmic rays, and food and water are sources of {{background radiation}}.
 Radon gas can accumulate in {{poorly ventilated areas}}.
-
 $${{|\bm{a} \cdot \bm{b}|}} \leq {{|\bm{a}||\bm{b}|}}$$
 $${{a_1 b_n + a_2 b_{n - 1} + \cdot \cdot \cdot + a_n b_1}} \leq {{a_1 b_1 + a_2 b_2 + \cdot \cdot \cdot + a_n b_n}}$$
 $${{a^n - b^n}} = {{(a - b)(a^{n - 1} + a^{n - 2} b + \cdot \cdot \cdot + a b^{n - 2} + b^{n - 1})}}$$
@@ -350,3 +349,21 @@ $${{ {n \choose r} }} = {{\frac{n!}{r!(n - r)!} }}$$
 {{Colouring}} can be used to solve board-tiling problems.
 If there are {{$n$ consecutive integers}}, one must be a {{multiple of $n$}}.
 An equation is {{Diophantine}} if {{only the integer solutions are studied}}.
+The perpendicular bisectors of the sides meet at the circumcentre of a triangle.
+The circumcentre is the centre of the circumcircle.
+A circumcircle passes through all of the vertices of a triangle.
+The angle bisectors meet at the incentre of the triangle.
+The incentre is the centre of the incircle.
+An incircle is tangent to all the sides of a triangle.
+The medians of a triangle are the lines which join each vertex to the midpoint of the opposite side.
+The medians meet at the centroid of the triangle.
+The altitudes of a triangle pass through a vertex and are perpendicular to the opposite side.
+The altitudes meet at the orthocentre of the triangle.
+The circumcenter, centroid and orthocentre are colinear.
+$$OG:GH = 1:2$$
+The radius of the circumcircle is the circumradius.
+The radius of the incircle is the inradius.
+The circumcentre is called $O$.
+The centroid is called $G$.
+The orthocentre is called $H$.
+The incentre is called $I$.
